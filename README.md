@@ -1,2 +1,2 @@
-# C sharp Logical
-Logical problems to build analytical skill
+# Linear Algebra
+Basic Algebra using Python
