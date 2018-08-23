@@ -1,2 +1,2 @@
-# Linear Algebra
-Basic Algebra using Python
+# Math Required For ML and AI
+
